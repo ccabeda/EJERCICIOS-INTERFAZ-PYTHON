@@ -1,2 +1,2 @@
 # EJERCICIOS-INTERFAZ-PYTHON
-# Interfaces echa con python y librerias.
+# Interfaces muy simples echas con python y librerias.
